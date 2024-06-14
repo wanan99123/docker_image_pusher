@@ -1,1 +1,2 @@
 enwaiax/x-ui:latest
+ghcr.io/mhsanaei/3x-ui:latest
